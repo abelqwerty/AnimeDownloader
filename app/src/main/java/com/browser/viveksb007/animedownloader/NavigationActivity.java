@@ -22,7 +22,7 @@ import com.afollestad.materialdialogs.MaterialDialog;
 import com.browser.viveksb007.animedownloader.fragments.HomeFragment;
 
 /**
- * Created by viveksb007 on 3/10/17.
+ * Created by viveksb007 on 3/10/17 Forked by Abel 03/27/20.
  */
 
 public class NavigationActivity extends AppCompatActivity {
